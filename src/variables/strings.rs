@@ -21,7 +21,9 @@ fn demonstrate_string_types() {
     println!("Byte String Literal (&[u8]): {:?}", byte_string_literal);
 
     // Byte String (Vec<u8>)
-    let byte_string: Vec<u8> = vec![72, 101, 108, 108, 111, 44, 32, 98, 121, 116, 101, 32, 119, 111, 114, 108, 100, 33];
+    let byte_string: Vec<u8> = vec![
+        72, 101, 108, 108, 111, 44, 32, 98, 121, 116, 101, 32, 119, 111, 114, 108, 100, 33,
+    ];
     println!("Byte String (Vec<u8>): {:?}", byte_string);
 
     // OsString

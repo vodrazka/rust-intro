@@ -4,7 +4,7 @@ mod integers;
 
 pub fn main() {
     println!("Module \"variables\" loaded");
-    strings::main();
+    // strings::main();
     // integers::main();
-    // tuples::main();
+    tuples::main();
 }
