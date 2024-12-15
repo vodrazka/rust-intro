@@ -56,4 +56,4 @@ fn demonstrate_string_types() {
     println!("Rc<str>: {:?}", rc_str);
 }
 ```
-- We also use everywhere the [[rust-macros#println!|println!]] macro.
+- We also use everywhere the [[macros#println!|println!]] macro.

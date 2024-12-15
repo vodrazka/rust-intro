@@ -1,11 +1,11 @@
 Structure:
-1. [[rust-modules]]
-2. [[rust-variables]]
-3. [[rust-binding-and-mutability]]
+1. [Modules](md/modules.md)
+2. [Variables](md/variables.md)
+3. [Binding and mutability](md/binding_and_mutability.md)
 4. Ownership and borrowing
 5. Lifetimes
 6. Traits and generics
-7. [[rust-macros]]
+7. [Macros](md/macros.md)
 8. Error Handling
 9. Concurrency
 	1. Threads

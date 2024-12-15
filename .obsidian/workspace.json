@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rust-binding-and-mutability.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rust-binding-and-mutability"
+              "title": "README"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rust-binding-and-mutability.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for rust-binding-and-mutability"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rust-binding-and-mutability.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from rust-binding-and-mutability"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rust-binding-and-mutability.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of rust-binding-and-mutability"
+              "title": "Outline of README"
             }
           }
         ]
@@ -164,21 +164,21 @@
   },
   "active": "7152f630ef7dbd7c",
   "lastOpenFiles": [
-    "rust-binding-and-mutability.md",
+    "md/macros.md",
+    "README.md",
+    "md/binding_and_mutability.md",
+    "md",
+    "md/variables.md",
+    "md/modules.md",
     "!src/binding_and_mutability/mod.rs.md",
     "!src/binding_and_mutability",
     "!src",
-    "README.md",
-    "rust-variables.md",
     "target/debug/incremental/introduction-1nfbhwrdjn5t0/s-h2qmkar87r-0jdh4fv-9oyvrji54mtc5ay9nz44o47u2/work-products.bin",
     "target/debug/incremental/introduction-1nfbhwrdjn5t0/s-h2qmkar87r-0jdh4fv-9oyvrji54mtc5ay9nz44o47u2/query-cache.bin",
     "target/debug/incremental/introduction-1nfbhwrdjn5t0/s-h2qmkar87r-0jdh4fv-9oyvrji54mtc5ay9nz44o47u2/dep-graph.bin",
     "target/debug/incremental/introduction-1nfbhwrdjn5t0/s-h2qmkar87r-0jdh4fv-9oyvrji54mtc5ay9nz44o47u2",
     "target/debug/incremental/introduction-0h9rg63bg1k1d/s-h2qmkar86c-1jb3rdd-7l56d6901xh1l1z18tjqujkn5/work-products.bin",
     "target/debug/incremental/introduction-0h9rg63bg1k1d/s-h2qmkar86c-1jb3rdd-7l56d6901xh1l1z18tjqujkn5/query-cache.bin",
-    "target/debug/incremental/introduction-0h9rg63bg1k1d/s-h2qmkar86c-1jb3rdd-7l56d6901xh1l1z18tjqujkn5/dep-graph.bin",
-    "target/debug/incremental/introduction-0h9rg63bg1k1d/s-h2qmkar86c-1jb3rdd-7l56d6901xh1l1z18tjqujkn5",
-    "rust-macros.md",
-    "rust-modules.md"
+    "target/debug/incremental/introduction-0h9rg63bg1k1d/s-h2qmkar86c-1jb3rdd-7l56d6901xh1l1z18tjqujkn5/dep-graph.bin"
   ]
 }

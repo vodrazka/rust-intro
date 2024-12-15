@@ -1,4 +1,8 @@
 {
   "vimMode": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true
 }
