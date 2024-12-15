@@ -9,4 +9,4 @@ binding_and_mutability::main();
 ```
 
 Add new file and directory `binding_and_mutability/mod.rs`
-![mod.rs](src/binding_and_mutability/mod.rs)
+![mod.rs](../src/binding_and_mutability/mod.rs)
