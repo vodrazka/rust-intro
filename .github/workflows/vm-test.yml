@@ -1,0 +1,17 @@
+name: Test Parallels runner
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: [self-hosted, macOS, parallels-vm]
+
+    steps:
+      - name: Check VM environment
+        run: |
+          hostname
+          sw_vers
+          uname -m
+          whoami
+
